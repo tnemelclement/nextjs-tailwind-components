@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-tailwind-components",
+  "version": "1.0.0",
+  "description": "Components for NextJS using TailwindCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnemelclement/nextjs-tailwind-components.git"
+  },
+  "keywords": [
+    "nextjs"
+  ],
+  "author": "tnemelclement",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnemelclement/nextjs-tailwind-components/issues"
+  },
+  "homepage": "https://github.com/tnemelclement/nextjs-tailwind-components#readme",
+  "dependencies": {
+    "next": "^13.1.1"
+  }
+}
